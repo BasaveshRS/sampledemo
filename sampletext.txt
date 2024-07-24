@@ -2,3 +2,6 @@ This is just sample text file for demo
 
 
 made the changes as a part of git pull command
+
+
+made the change for git fetch command
