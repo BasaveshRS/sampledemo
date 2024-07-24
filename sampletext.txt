@@ -1,1 +1,4 @@
-This is just sample text file for demo 
+This is just sample text file for demo
+
+
+made the changes as a part of git pull command
